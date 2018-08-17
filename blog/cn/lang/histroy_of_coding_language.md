@@ -1,4 +1,8 @@
+#### [[Return Home]](https://github.com/vipally/blog) [[Return List]](https://github.com/vipally/blog/blob/master/blog/cn/list.md)
+
 # 编程语言历史
+
+------------
 
 ## 1. 1951–Regional Assembly Language
 
@@ -128,3 +132,5 @@
 - https://baijiahao.baidu.com/s?id=1588675986991787716&wfr=spider&for=pc
 - https://blog.csdn.net/u010297957/article/details/51289544
 - http://www.sohu.com/a/136310616_505803
+
+#### [[Return Home]](https://github.com/vipally/blog) [[Return List]](https://github.com/vipally/blog/blob/master/blog/cn/list.md)
