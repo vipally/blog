@@ -1,7 +1,10 @@
 # blog
 Ally's blog 
 
-[vipally@gmail.com](mailto: vipally@gmail.com)
+## Author: [Ally Dale]
+- mail: vipally@gmail.com 
+- github: https://github.com/vipally
+- blog: https://blog.csdn.net/vipally
 
 ## lang
-- [histroy_of_coding_language.md](lang/histroy_of_coding_language.md)
+- [history_of_coding_language](./lang/history_of_coding_language.md)
