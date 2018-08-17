@@ -15,4 +15,4 @@ Ally's blog
 ---------------------------
 
 ## lang
-- [20180817-编程语言历史](blob/master/blog/cn/lang/histroy_of_coding_language.md)
+- [20180817-编程语言历史](blog/cn/lang/histroy_of_coding_language.md)
