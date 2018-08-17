@@ -9,8 +9,8 @@ Ally's blog
 - blog: https://blog.csdn.net/vipally
 
 # blog language
-- [CN](blob/master/blog/cn/list.md)
-- [EN](blob/master/blog/en/list.md)
+- [CN](blog/cn/list.md)
+- [EN](blog/en/list.md)
 
 ---------------------------
 
