@@ -78,6 +78,8 @@
 - 一个过程式的语言
 
 ## 1. 1970-Forth
+- Charles Moore
+- 由于无法利用FORTRAN语言进行图形设计，Moore决定自己开发一套编程语言——这就是Forth
 
 ## 1. 1972-C (C Programming Language)
 - 美国 贝尔实验室 Dennis MacAlistair Ritchie（D.M.Ritchie - DM里奇）
@@ -109,6 +111,7 @@
 ## 1. 1972-Smalltalk
 - Alan Kay
 - 发明了“面向对象”这个词
+- Smalltalk是一个包含多种面向对象编程语言的家族，最初由Xerox公司的帕洛阿尔托研究中心(简称PARC)于上世纪七十年代所创建。它的出现给众多后续出现的编程语言带来了重大影响，其中包括Java、Python以及Ruby等等
 
 ## 1. 1972-Prolog
 - Alain Colmerauer
@@ -121,6 +124,12 @@
 - 其他ML家族的著名语言还包括OCaml，F#，和，Visual Basic
 
 ## 1. 1975-Scheme
+- 一种Lisp方言
+
+## AWK
+- 贝尔实验室的三位开发者的姓氏首字母：Alfred Aho、Peter Weingerber以及Brian Kernighan
+- 一种用于处理文本文件的解释型语言
+- 作为Unix grep工具的通用版本使用，随后于1979年首次成为Unix版本7中的内置方案
 
 ## 1. 1978-SQL
 
@@ -150,8 +159,11 @@
 - Jean Ichbiah和美国国防部创造了Ada语言
 
 ## 1. 1984-Common Lisp
+- Lisp的标准化版本
 
 ## 1. 1984-MATLAB
+- 强大的数学编程工具集
+- 擅长矩阵运算
 
 ## 1. 1985-Eiffel
 
@@ -163,6 +175,8 @@
 
 ## 1. 1987-Perl
 -  Larry Wall
+- 一款被称为“瑞士军刀”的语言，Perl以其出色的灵活性与强大能力闻名于世
+- 受AWK语言影响，正则表达式处理文本出色
 
 ## 1. 1988-Tcl
 
@@ -315,5 +329,6 @@
 - http://www.sohu.com/a/136310616_505803
 - https://yq.aliyun.com/articles/94605?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&2017613&utm_content=m_23116
 - https://blog.csdn.net/singit/article/details/54919132
+- http://tech.it168.com/a2014/0509/1621/000001621456_all.shtml
 
 #### [[Return Home]](https://github.com/vipally/blog) [[Return List]](https://github.com/vipally/blog/blob/master/blog/cn/list.md)
