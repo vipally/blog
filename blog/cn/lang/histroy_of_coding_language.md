@@ -130,6 +130,13 @@
 - 贝尔实验室的三位开发者的姓氏首字母：Alfred Aho、Peter Weingerber以及Brian Kernighan
 - 一种用于处理文本文件的解释型语言
 - 作为Unix grep工具的通用版本使用，随后于1979年首次成为Unix版本7中的内置方案
+- AWK——这个版本是 AWK 最原初的版本，它由 AT&T 实验室开发。
+- NAWK ——NAWK(New AWK)是 AWK 的改进增强版本。
+- GAWK—— GAWK 即 GNU AWK，所有的 GNU/Linux 发行版都包括 GAWK，且 GAWK 完全兼容 AWK 与 NAWK。
+- 文本处理，
+- 生成格式化的文本报告，
+- 进行算术运算，
+- 字符串操作，以及其它更多。
 
 ## 1. 1978-SQL
 
