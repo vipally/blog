@@ -41,3 +41,6 @@ Linus Torvalds
 - [中国为什么没有自己的编程语言](https://blog.csdn.net/u012092924/article/details/78662960)
 - [你必须知道的10种国产编程语言](https://blog.csdn.net/phphot/article/details/1862735)
 - [中国博士为什么会没有尊严](https://blog.csdn.net/hlx371240/article/details/46129771)
+- [一个中科院退学博士生的感想](https://blog.csdn.net/chl033/article/details/5785053)
+- [中国科技论文数量世界第一的背后](https://blog.csdn.net/VucNdnrzk8iwX/article/details/79589468)
+- https://blog.csdn.net/l172942736/article/details/45504295
